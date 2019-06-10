@@ -1,2 +1,1 @@
-what = input()
-print('Goodbye {}!!!'.format(what))
+print('Goodbye World!!!')
